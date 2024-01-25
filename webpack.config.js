@@ -9,7 +9,7 @@ module.exports = {
     static: './src',
   },
   output: {
-    filename: 'main.js',
+    filename:  "[name].js",
     path: path.resolve(__dirname, 'dist'),
     clean: true,
   },

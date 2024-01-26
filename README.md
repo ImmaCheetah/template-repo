@@ -12,7 +12,7 @@
 ## Getting Started
 
 ```
-$ git clone git@github.com:mathdebate09/project-name.git
+$ git clone git@github.com:immacheetah/project-name.git
 $ cd propject-name
 $ npm run build
 $ npm start
